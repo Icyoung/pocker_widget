@@ -1,7 +1,7 @@
 name: poker_widget
 description: "A widget seems like poker"
-version: 0.0.1+2
-homepage:
+version: 0.0.1+4
+homepage: https://github.com/Icyoung/pocker_widget
 
 environment:
   sdk: ^3.7.2

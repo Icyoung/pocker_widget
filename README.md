@@ -2,6 +2,9 @@
 
 `PokerWidget` is a customizable Flutter widget that displays a horizontally scrollable card deck with smooth animations, scaling effects, and saturation adjustments based on the distance between cards.
 
+## Preview
+![Screen Gif](https://github.com/Icyoung/pocker_widget/blob/main/Screen.gif)
+
 ## Features
 - Smooth scrolling with drag gestures
 - Auto-snapping to the nearest card when released
